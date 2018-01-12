@@ -1,4 +1,4 @@
-var getArea = require('./area');
+var getArea = require('./areaImpl.js');
 
 /* 
     Partizioni valide

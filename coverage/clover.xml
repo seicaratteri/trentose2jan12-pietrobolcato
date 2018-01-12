@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1515751256200" clover="3.2.0">
-  <project timestamp="1515751256200" name="All files">
+<coverage generated="1515751775572" clover="3.2.0">
+  <project timestamp="1515751775572" name="All files">
     <metrics statements="10" coveredstatements="10" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1" elements="23" coveredelements="23" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1">
-      <file name="area.js" path="C:\Users\Pietro\Documents\Programmi\Ing software 2\esameverissimo\vero\again\trentose2jan12-pietrobolcato\area.js">
+      <file name="areaImpl.js" path="C:\Users\Pietro\Documents\Programmi\Ing software 2\esameverissimo\vero\again\trentose2jan12-pietrobolcato\areaImpl.js">
         <metrics statements="10" coveredstatements="10" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
         <line num="3" count="11" type="stmt"/>
         <line num="4" count="11" type="cond" truecount="2" falsecount="0"/>

@@ -4,17 +4,19 @@
   "description": "Pietro Bolcato - 178601",
   "main": "area.js",
   "dependencies": {
+    "express": "^4.16.2",
     "jest": "^22.0.6"
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "jest": {
     "verbose": true,
     "collectCoverage": true,
     "collectCoverageFrom": [
-      "**/area.js"
+      "**/areaImpl.js"
     ]
   },
   "repository": {
